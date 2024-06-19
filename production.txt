@@ -1,0 +1,3 @@
+🔗  Linked to akash-ahmeds-projects-50946a6b/worker-app (created .vercel and added it to .gitignore)
+🔍  Inspect: https://vercel.com/akash-ahmeds-projects-50946a6b/worker-app/KACvyLoCiKYPwNocZuBnq1ymjAGD [8s]
+✅  Production: https://worker-r9ruumrgc-akash-ahmeds-projects-50946a6b.vercel.app [8s]
